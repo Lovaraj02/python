@@ -1,4 +1,4 @@
-#Binary search 
+# Binary search 
 #works on sorted array to find index quickly in O(log n)
 arr = [ 2, 3, 7, 7, 11, 15, 25]
 low = 0
